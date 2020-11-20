@@ -1,0 +1,6 @@
+Docker -> Create image + network + delete + build Image from template
+Notification
+Templates -> Create + Get + Load on startup
+Services -> Start / Stop / Restart <one|all> / start on startup / Update cache
+Clients -> Get Best / Get / Update + register / unregister + getByUUID +
+Logs -> Log into files + Write log + reboot logs
